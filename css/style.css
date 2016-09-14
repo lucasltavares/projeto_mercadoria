@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	padding-top: 25px;
+}
+
+.link{
+	color: black;
+	text-align: center;
+}
+
+.cabecalho{
+	text-align: center;
+}
+
+.content{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.content ul {
+	list-style-type: none;
+}
+
+.lista{
+	padding-top: 45px;
+}
+
